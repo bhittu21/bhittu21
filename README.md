@@ -138,7 +138,7 @@ Design studio creating beautiful, functional digital experiences.
 
 <div align="center">
   
-### 💭 Quote of the My Life
+### 💭 Quote of My Life
   
 *"If you don't sacrifice for what you want, what you want becomes the sacrifice."* – bhittu21
 
